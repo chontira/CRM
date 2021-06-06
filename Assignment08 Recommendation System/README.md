@@ -5,4 +5,3 @@ A survey asking whether or not the user (students from the class) has ever purch
 Running a market basket analysis. The association rules are filtered by Support > 0.5 and Lift > 1.
 Nodes represent items.
 Edges represent rules between antecedents and consequents.
-## Collaborative Filtering - Item-Item

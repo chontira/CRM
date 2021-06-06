@@ -18,5 +18,6 @@ The example from the teacher has three features, Recency, Frequency, and Monetar
 I use all features from previous step with Logistics Regression, SVM, Decision Tree, Random Forest, XGBoost and resampling by oversampled, undersampled, and SMOTE. 
 
 ## Model Performance
-model give test-auc score around 0.78 ~ 0.8. The best model is XGBoost + oversampled with test-auc score 0.804
-[roc](./roc.png)
+All model give test-auc score around 0.76 ~ 0.8. The best model is XGBoost + oversampled with test-auc score 0.804.
+
+![roc](roc.png)

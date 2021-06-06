@@ -1,5 +1,5 @@
 # Voice of Customers Analytics
-analysis restaurants reviews using topics modeling
+Analysis restaurants reviews using topics modeling
 
 ## Dataset
 restaurant reviews from Wongnai. (21 reviews, 3 restaurants)

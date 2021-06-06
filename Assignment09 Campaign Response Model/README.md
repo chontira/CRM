@@ -19,3 +19,4 @@ I use all features from previous step with Logistics Regression, SVM, Decision T
 
 ## Model Performance
 model give test-auc score around 0.78 ~ 0.8. The best model is XGBoost + oversampled with test-auc score 0.804
+[roc](./roc.png)
